@@ -28,5 +28,20 @@ namespace KirillFunctions
             return Math.Sqrt(a);
         }
 
+        public static long Factorial(int n)
+        {
+            if (n < 0)
+            {
+                throw new ArgumentException("Факториал не существует для отрицательных чисел.");
+            }
+
+            long result = 1;
+            for (int i = 1; i <= n; i++)
+            {
+                result *= i;
+            }
+
+            return result;
+        }
     }
 }
