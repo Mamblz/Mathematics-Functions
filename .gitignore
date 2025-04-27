@@ -1,0 +1,18 @@
+# .vs folder
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
