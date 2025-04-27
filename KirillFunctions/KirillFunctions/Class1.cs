@@ -17,5 +17,16 @@ namespace KirillFunctions
 
             return Math.Log10(a);
         }
+
+        public static double SquareRoot(double a)
+        {
+            if (a < 0)
+            {
+                throw new ArgumentException("Невозможно вычислить квадратный корень из отрицательного числа.");
+            }
+
+            return Math.Sqrt(a);
+        }
+
     }
 }
