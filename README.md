@@ -49,6 +49,6 @@ Visual Studio 2022 (или совместимая IDE)
 
 Кобзарь Кирилл: ivan@example.com
 
-Александр Вершинин: maria@example.com
+Александр Вершинин: alex@example.com
 
-Горбач Иван: alex@example.com
+Горбач Иван: maria@example.com
