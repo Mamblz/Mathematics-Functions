@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirillFunctions", "KirillFunctions\KirillFunctions.csproj", "{D137E9B2-7B88-41D7-BC4C-931B40B89E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ploshadi", "Ploshadi\Ploshadi.csproj", "{5AF35AD5-E477-4D09-93BC-3035C0778490}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D137E9B2-7B88-41D7-BC4C-931B40B89E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D137E9B2-7B88-41D7-BC4C-931B40B89E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D137E9B2-7B88-41D7-BC4C-931B40B89E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF35AD5-E477-4D09-93BC-3035C0778490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF35AD5-E477-4D09-93BC-3035C0778490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF35AD5-E477-4D09-93BC-3035C0778490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF35AD5-E477-4D09-93BC-3035C0778490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
